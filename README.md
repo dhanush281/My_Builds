@@ -1,4 +1,4 @@
-#Pixelage #V2.8 #Unofficial #ROM #Stable #Sky #OSS
+#Pixelage #V2.7 #Unofficial #ROM #Stable #Sky #OSS
 Pixelage | GAPPS | Android 15
 
 📱 Version: 15.0 (20250412)
