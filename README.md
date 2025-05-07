@@ -1,4 +1,4 @@
-#Pixelage #V2.7 #Unofficial #ROM #Stable #Sky #OSS
+#Pixelage #V2.8 #Unofficial #ROM #Stable #Sky #OSS
 Pixelage | GAPPS | Android 15
 
 📱 Version: 15.0 (20250412)
@@ -10,8 +10,8 @@ ROM:
 Merged QPR2 & r26 (April 2025 security patch)
 
 📝 Note:
-Clean flash Mandatory 
-Flash the latest HyperOS firmware 2.4.0
+Dirty flash works (on previous version)
+Flash the latest HyperOS firmware 2.5.0
 
 🙏 Credits:
 @lostark13 for device sources and all help.
