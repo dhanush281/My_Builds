@@ -12,6 +12,7 @@ Device :
         - Update blobs to OS2.0.8.0.VMWEUXM
         - Use QCOM Implementation for audio effects
         - Dolby Added
+
 Source : https://github.com/AxionAOSP/axion_changelogs
 
 Special thanks to : @lostark13 , & @jendermine  for device trees and Tested by @Bruce0O_7
