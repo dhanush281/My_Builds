@@ -2,6 +2,7 @@
 
 Notes :
 Recovery - https://t.me/Redmi125GChannel/539
+
 Latest FW - https://xmfirmwareupdater.com/firmware/sky/stable/OS2.0.8.0.VMWEUXM/
 
 Changelogs :
