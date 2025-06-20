@@ -1,17 +1,16 @@
-#Pixelage #V2.7 #Unofficial #ROM #Stable #Sky #OSS
-Pixelage | GAPPS | Android 15
+#AxionAosp #v1.6 #A15 #EOL by @solocaptainblaze x @Ashwani_dxui
 
-📱 Version: 15.0 (20250412)
-🛠️ Type: STABLE
-👤 By: @solocaptainblaze
+Notes :
+Recovery - https://t.me/Redmi125GChannel/539
+Latest FW - https://xmfirmwareupdater.com/firmware/sky/stable/OS2.0.8.0.VMWEUXM/
 
-📋 Changelog:
-ROM:
-Merged QPR2 & r26 (April 2025 security patch)
+Changelogs :
+Device :
+        - BCR Added
+        - Remove redundant display board flags
+        - Update blobs to OS2.0.8.0.VMWEUXM
+        - Use QCOM Implementation for audio effects
+        - Dolby Added
+Source : https://github.com/AxionAOSP/axion_changelogs
 
-📝 Note:
-Dirty flash works (on previous version)
-Flash the latest HyperOS firmware 2.5.0
-
-🙏 Credits:
-@lostark13 for device sources and all help.
+Special thanks to : @lostark13 , & @jendermine  for device trees and Tested by @Bruce0O_7
