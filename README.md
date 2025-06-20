@@ -7,6 +7,8 @@ Latest FW - https://xmfirmwareupdater.com/firmware/sky/stable/OS2.0.8.0.VMWEUXM/
 
 Screenshots - https://t.me/sky_screenshots/1078
 
+Integrity fix - https://t.me/captainbuilds/553
+
 Changelogs :
 
 Device :
