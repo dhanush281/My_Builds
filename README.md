@@ -19,6 +19,10 @@ Device :
         
         - Dolby Added
 
+        - TARGET_ARCH_VARIANT change armv8-a to armv8-2a-dotprod (performance related)
+
+        - Swapiness is 40
+
 Source : https://github.com/AxionAOSP/axion_changelogs
 
 Special thanks to : @lostark13 , & @jendermine  for device trees and Tested by @Bruce0O_7
